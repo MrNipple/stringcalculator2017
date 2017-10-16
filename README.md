@@ -1,0 +1,2 @@
+# stringcalculator2017
+Hugbúnaðarfræði
